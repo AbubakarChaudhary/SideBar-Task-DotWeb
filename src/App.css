@@ -1,0 +1,14 @@
+.logo img {
+  width: 250px;
+  mix-blend-mode: plus-lighter;
+  filter: invert(1);
+}
+
+.social img {
+  width: 200px;
+  mix-blend-mode: lighten;
+}
+
+.custom-pp {
+  margin-top: -50px;
+}
